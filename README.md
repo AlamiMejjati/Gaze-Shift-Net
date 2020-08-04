@@ -17,7 +17,7 @@ To avoid version mismatches, you could create a new environment via:
     
 Once the environment created, install the rest of the packages via: 
 
-    pip install -r pip_requirements.txt' 
+    pip install -r pip_requirements.txt
 
 
 ### Downloads
