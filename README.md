@@ -69,7 +69,7 @@ Using the frozen model, one can perfrom interactive image editing. An example is
 
     python GUI.py --frozen_model $checkpoint_dir/frozen_model.pb
 
-Important note: to use the GUI, please install the user interface library PySimpleGUI. You might need to use a python version >3.5 for this to work.  
+Important note: to use the GUI, please install the user interface library PySimpleGUI. You might need to switch to a python version >3.5 for this to work.  
 ### Extensions 
 
 ##### Increase user attention in a stochastic manner (Multi-Style):
