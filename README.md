@@ -72,7 +72,7 @@ Using the frozen model, one can perfrom interactive image editing. An example is
 Important note: to use the GUI, please install the user interface library PySimpleGUI. You might need to use a python version >3.5 for this to work.  
 ### Extensions 
 
-##### Increase user attention in a stochastic manner (Multi-Style).
+##### Increase user attention in a stochastic manner (Multi-Style):
 
 You can train the model to produce diverse outputs from the same image and mask by running the command below:
 
