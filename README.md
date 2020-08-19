@@ -1,5 +1,5 @@
-# Look here! A learning based approach to redirect visual attention
-This is the official code for the paper [Look here! A learning based approach to redirect visual attention](https://alamimejjati.github.io/GazeShiftNet), to appear in ECCV 2020.
+# Look here! A parametric learning based approach to redirect visual attention
+This is the official code for the paper [Look here! A parametric learning based approach to redirect visual attention](https://alamimejjati.github.io/GazeShiftNet), to appear in ECCV 2020.
 
 ![Teaser](./ims/Teaser_fig.png)
 ### Environment
